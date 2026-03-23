@@ -16,12 +16,18 @@ conda create -p FGenai python==3.11 -y
 conda activate FGenai/
 ```
 
-### step-3
+### step-4
 ```bash 
 pip install -r requirements.txt
 ```
+### step-5
+set .env file 
+```bash 
+GOOGLE_API_KEY = "xyz"
+```
 
-### step -5
+
+### step -6
 ```bash
 python mainf.py
 ```
