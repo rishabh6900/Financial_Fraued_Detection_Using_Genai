@@ -16,7 +16,7 @@ conda create -p FGenai python==3.11 -y
 conda activate FGenai/
 ```
 
-### step - 4
+### step-3
 ```bash 
 pip install -r requirements.txt
 ```
