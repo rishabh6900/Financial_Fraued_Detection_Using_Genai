@@ -12,7 +12,7 @@ conda create -p FGenai python==3.11 -y
 ```
 
 ### step -3
-``bash
+```bash
 conda activate FGenai/
 ```
 
