@@ -1,0 +1,3 @@
+# pip install langChain
+# pip install tldextract
+# pip install langchain-google-genai
